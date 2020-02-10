@@ -1,0 +1,28 @@
+---
+title: "My First Post"
+date: 2020-02-09T16:55:14-05:00
+draft: false
+---
+# this is a test
+## this is a test
+
+1. this is a list
+2. this is the second item
+3. ok ok 
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+Markdown icon: : 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
