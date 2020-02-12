@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//breakerz.github.io/</loc>
+    <lastmod>2020-02-09T16:55:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//breakerz.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//breakerz.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>//breakerz.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-02-09T16:55:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//breakerz.github.io/posts/</loc>
+    <lastmod>2020-02-09T16:55:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//breakerz.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//breakerz.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//breakerz.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>//breakerz.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//breakerz.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//breakerz.github.io/tags/"
+                />
+  </url>
+  
+</urlset>

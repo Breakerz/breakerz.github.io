@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Breaker&#39;z Adventures</title>
+    <title>Les merveilleuses aventures de Breakerz</title>
     <link>//breakerz.github.io/</link>
-    <description>Recent content on Breaker&#39;z Adventures</description>
+    <description>Recent content on Les merveilleuses aventures de Breakerz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-ca</language>
     <lastBuildDate>Sun, 09 Feb 2020 16:55:14 -0500</lastBuildDate>
     
 	<atom:link href="//breakerz.github.io/index.xml" rel="self" type="application/rss+xml" />
